@@ -63,5 +63,15 @@ const app = blog({
 });
 
 export default app;
+```
 
+#### 4.1 Options
+
+See all configuration options at https://jsr.io/@ptm/hono-blog/doc/~/HonoBlogOptions
+
+
+### 5. Run the blog
+
+```bash
+deno task start
 ```
