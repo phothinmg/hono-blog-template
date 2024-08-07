@@ -28,6 +28,17 @@
           "npm:showdown-mathjax@^1.0.7"
         ]
       },
+      "@ptm/hono-blog@0.0.5": {
+        "integrity": "768b9956bd438df003998227f1456b7fc38c5d1b0c3338c381628cefdf0e8300",
+        "dependencies": [
+          "jsr:@hono/hono@^4.5.3",
+          "jsr:@hono/hono@^4.5.4",
+          "jsr:@ptm/mm-mark@^0.2.12",
+          "jsr:@std/path@^1.0.2",
+          "npm:glob@^11.0.0",
+          "npm:showdown-mathjax@^1.0.7"
+        ]
+      },
       "@ptm/mm-mark@0.2.12": {
         "integrity": "17130f408fcd82816a36a6afd534ec8b2a931758ce84ae3998ea31e4351c1c37",
         "dependencies": [
