@@ -24,7 +24,7 @@ git clone https://github.com/phothinmg/hono-blog-template.git
   },
   "imports": {
     "@hono/hono": "jsr:@hono/hono@^4.5.4",
-    "@ptm/hono-blog": "jsr:@ptm/hono-blog@^0.0.4"
+    "@ptm/hono-blog": "jsr:@ptm/hono-blog@^0.0.5"
   },
   "compilerOptions": {
     "jsx": "precompile",
