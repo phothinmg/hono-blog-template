@@ -1,10 +1,5 @@
 # Hono Blog Template
 
----
-type: "index"
-title: "Home"
----
-
 ### 1. About
 
 Simple blog template with Hono Js and Deno.
